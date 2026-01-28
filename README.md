@@ -76,8 +76,4 @@ Total parameters: ~1.94 million
 ---
 
 
-Optimize for real-time speech denoising
-
-Explore GAN-based speech enhancement models
-
 
