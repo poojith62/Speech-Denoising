@@ -75,23 +75,9 @@ Total parameters: ~1.94 million
 
 ---
 
-✅ Results
-
-Significant reduction of background noise
-
-Improved speech clarity
-
-Works on different noisy audio samples
-
-Produces perceptually cleaner speech output
-
-🚀 Future Work
-
-Add objective metrics (SNR, PESQ, STOI)
-
-Train on larger and more diverse datasets
 
 Optimize for real-time speech denoising
 
 Explore GAN-based speech enhancement models
+
 
