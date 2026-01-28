@@ -75,18 +75,6 @@ Total parameters: ~1.94 million
 
 ---
 
-## 📂 Project Structure
-Speech-Denoising/
-│
-├── clean_speech/ # Clean speech audio files
-├── noise/ # Noise audio files
-├── spectogram/ # Saved spectrogram arrays
-├── weights/ # Trained model files
-├── test/ # Test audio files
-├── output/ # Denoised output audio
-├── notebooks/ # Experiments / notebooks
-└── README.md
-
 ✅ Results
 
 Significant reduction of background noise
@@ -106,3 +94,4 @@ Train on larger and more diverse datasets
 Optimize for real-time speech denoising
 
 Explore GAN-based speech enhancement models
+
